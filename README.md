@@ -26,4 +26,4 @@ When I first started this assignment, I couldn't get my code to show that it was
 
 ## Pull Requests
 
-[PR 1]()
+- [PR 1](https://github.com/SimoneOdegard/image-lambda/pull/1)
